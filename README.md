@@ -1,6 +1,6 @@
 # CS-300-DSA-Data-and-Algorithms
 
-What was the problem you were solving in the projects for this course? 
+What was the problem you were solving in the projects for this course?
 
 To create a program that was efficient and sorted information in the fastest way. This program helps ABC university to recommend a schedule for its students for their CIS program. It reads an input csv file separated by commas and links each item to another in a Binary Search Tree (BST) for fast searching purposes. 
 
